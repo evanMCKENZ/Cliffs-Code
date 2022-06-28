@@ -1,0 +1,207 @@
+﻿Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Creating EventLog source MarqueeSignService in log Application...
+Rolling back assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Restoring event log to previous state for source MarqueeSignService.
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Creating EventLog source MarqueeSignService in log Application...
+Rolling back assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Restoring event log to previous state for source MarqueeSignService.
+Uninstalling assembly 'C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Uninstalling assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
+Installing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly 'C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.InstallLog
+   assemblypath = C:\Users\exmcke\Desktop\MarqueeSignService\MarqueeSignService\bin\Debug\MarqueeSignService.exe

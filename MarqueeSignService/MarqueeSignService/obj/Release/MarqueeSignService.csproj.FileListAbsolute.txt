@@ -1,0 +1,9 @@
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe.config
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.pdb
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.MarqueeSignService.resources
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.ProjectInstaller.resources
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.csproj.GenerateResource.cache
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.csproj.CoreCompileInputs.cache
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.exe
+C:\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\obj\Release\MarqueeSignService.pdb

@@ -1,0 +1,21 @@
+﻿Installing assembly '\\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.InstallLog
+   assemblypath = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe
+Installing service MarqueeSignService...
+Service MarqueeSignService has been successfully installed.
+Creating EventLog source MarqueeSignService in log Application...
+Committing assembly '\\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.InstallLog
+   assemblypath = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe
+Uninstalling assembly '\\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.InstallLog
+   assemblypath = \\tsclient\C\Users\exmcke\source\repos\MarqueeSignService\MarqueeSignService\bin\Release\MarqueeSignService.exe
+Removing EventLog source MarqueeSignService.
+Service MarqueeSignService is being removed from the system...
+Service MarqueeSignService was successfully removed from the system.
